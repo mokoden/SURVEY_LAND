@@ -1,0 +1,50 @@
+// Customize as needed to display what you want
+// For the proper experience though I would keep it as minimal as possible
+// The volume controls are pushing it actually
+// But they are here because we use them personally
+[{
+    "name": "chapter",
+    "position": "top",
+    "height": 40,
+    "spacing": 4,
+    "modules-left": [
+        "hyprland/workspaces"
+    ],
+    "modules-right": [
+        "pulseaudio"
+    ],
+    "hyprland/workspaces": {
+        "disable-scroll": true,
+         "all-outputs": false,
+         "warp-on-scroll": false,
+         "format": "WORKSPACE {name}"
+    },
+    "pulseaudio": {
+        "format": "{volume}%",
+        "format-bluetooth": "{volume}%",
+        "format-bluetooth-muted": "",
+        "format-muted": "",
+        "format-source": "{volume}%",
+        "format-source-muted": "",
+        "on-click": "pavucontrol"
+    }
+},
+{
+    "name": "time",
+    "position": "bottom",
+    "height": 30,
+    "spacing": 4,
+    "modules-center": [
+        "tray"
+    ],
+    "modules-right": [
+        "clock"
+    ],
+    "clock": {
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "format": "{:%H.%M | %Y-%m-%d}"
+    },
+    "tray": {
+        "spacing": 10
+    }
+}]

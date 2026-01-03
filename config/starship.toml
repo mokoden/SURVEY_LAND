@@ -1,0 +1,12 @@
+"$schema" = 'https://starship.rs/config-schema.json'
+
+format = """
+[   󰋑](fg:#ff0000)\
+$directory\
+"""
+
+[directory]
+style = "fg:#00ff00"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncation_symbol = "…/"

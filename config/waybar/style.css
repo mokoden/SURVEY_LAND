@@ -1,0 +1,34 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "8bitoperator JVE";
+    font-size: 32px;
+    min-height: 0;
+}
+
+window#waybar {
+    background-color: transparent;
+    color: #00ff00; 
+}
+
+#workspaces button {
+    padding-left: 20px;
+    padding-right: 10px;
+    background-color: transparent;
+    color: inherit;
+}
+
+#pulseaudio {
+    padding-left: 8px;
+    padding-right: 20px;
+    background-color: transparent;
+    color: inherit;
+}
+
+#clock {
+    padding-left: 8px;
+    padding-right: 200px;
+    background-color: transparent;
+    color: inherit;
+    font-size: 16px;
+}
