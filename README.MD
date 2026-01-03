@@ -12,7 +12,7 @@ It kind of just looks like a "hacker-ey" aesthetic if you don't use the right fo
 
 In order to use this rice, you should have the following dependencies:
 - `hyprland` The window manager
-- `hyprlock` Which should be installed with hyprland
+- `hyprlock` The lock screen, which should be installed with hyprland
 - `waybar` The wayland bar
 - `wofi` The application launcher
 - `starship` The cross-shell prompt
