@@ -1,7 +1,7 @@
 # SURVEY_LAND
 ## ARE YOU THERE?
 
-This is a hyprland rice based on the SURVEY_PROGRAM UI in Deltarune. AKA: The UI when you start the game for the first time or do not have a save file (Plus the chapter select menu). It is not very complex or indepth, it was made by request of a friend, and we thought others might like it
+This is a hyprland rice based on the SURVEY_PROGRAM UI in Deltarune. AKA: The UI when you start the game for the first time or do not have a save file (Plus the chapter select menu). It is not very complex or indepth, it was made by request of a friend, and we thought others might like it<br>
 It kind of just looks like a "hacker-ey" aesthetic if you don't use the right font, I guess, but the real Deltarune fans will know
 
 | ![image](./screenshots/saves.png) | ![image](./screenshots/fetch.png) |
