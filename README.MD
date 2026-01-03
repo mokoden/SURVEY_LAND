@@ -20,9 +20,9 @@ To install, just put the folders in the `config` directory to the `~/.config/` d
 
 This also includes the `8bitoperator JVE` font, which is the font used in Undertale and Deltarune, and the waybar theme in particular expects you to have this. This goes in `~/.local/share/fonts/` on your system
 
+![image](./screenshots/SHEET.png)<br>
 Lastly, there is a cursor included as well, made courtesy of our friend LJorSomething, in the CURSOR_SOUL folder, which you will move to the `~/.icons/` folder on your machine. `~/.local/share/icons/` also works I believe
-<br>![image](./screenshots/SHEET.png)<br>
-<sub>(No, it is not a hyprcursor, this ensures better compatability with all programs, and you, the end user, will probably not notice the difference unless you have an 8K screen, as Vaxry says on the blogpost. You do not have an 8K screen. I know hyprcursor is better on the technical side, it is not well compatible with many programs and shells. And think about it as a bonus, now KDE users and GNOME freaks can use this cursor too)</sub>
+<br><sub>(No, it is not a hyprcursor, this ensures better compatability with all programs, and you, the end user, will probably not notice the difference unless you have an 8K screen, as Vaxry says on the blogpost. You do not have an 8K screen. I know hyprcursor is better on the technical side, it is not well compatible with many programs and shells. And think about it as a bonus, now KDE users and GNOME freaks can use this cursor too)</sub>
 
 You will probably need to edit the config files to your liking as well
 
